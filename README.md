@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hola 👋, Soy matt britez
+<h1>Hola 👋, Soy matt britez</h1>
 
 Full stack developer, apasionado por el desarrollo web y el aprendizaje continuo, me encanta el trabajo en equipo y cuento con excelentes relaciones interpersonales.
 
