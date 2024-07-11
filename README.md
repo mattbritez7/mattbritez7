@@ -17,5 +17,3 @@ Llegar a consolidarme como un desarrollador top en mi area, no pienso parar hast
 CONTACTOS:
 
 email: maty.britez7@gmail.com 
-linkedin: https://www.linkedin.com/in/matias-britezdev/ 
-telefono: +541153863835
